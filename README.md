@@ -4,7 +4,7 @@ Include your responses to the bold questions below. Include snippets of code tha
 
 ## Part A. Solder your LCD panel
 
-**Take a picture of your soldered panel and add it here!**
+![Soldering](https://github.com/JwayYih/IDD-Fa19-Lab2/blob/master/Soldering.jpg)
 
 ## Part B. Writing to the LCD
  
@@ -26,7 +26,7 @@ Had my diode +/- switched. Flipped it around.
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
-
+[Lowly Multimeter](https://github.com/JwayYih/IDD-Fa19-Lab2/blob/master/Lab_2_-_Lowly_Multimeter.ino)
 
 ## Part C. Using a time-based digital sensor
 
