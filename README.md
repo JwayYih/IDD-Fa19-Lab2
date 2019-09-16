@@ -31,6 +31,7 @@ It worked the first time around!
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+
 [Rotary Encoder](https://photos.app.goo.gl/cfFdARcMkSB3WoUW7)
 
 ## Part D. Make your Arduino sing!
