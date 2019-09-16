@@ -37,8 +37,13 @@ It worked the first time around!
 
 **a. How would you change the code to make the song play twice as fast?**
  
+ Change noteDuration from 1000 to 500
+ 
+     int noteDuration = 500 / noteDurations[thisNote];
+
 **b. What song is playing?**
 
+Star Wars
 
 ## Part E. Make your own timer
 
